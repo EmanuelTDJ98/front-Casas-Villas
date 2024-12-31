@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5a6acdd.css",
+    "main.js": "/static/js/main.c77b3179.js",
+    "static/js/453.87d4b244.chunk.js": "/static/js/453.87d4b244.chunk.js",
+    "static/media/Lontananza-16.jpg": "/static/media/Lontananza-16.338d71e3785559e140b4.jpg",
+    "static/media/Lontananza-15.jpg": "/static/media/Lontananza-15.e2483520b0905243778c.jpg",
+    "static/media/Lontananza-14.jpg": "/static/media/Lontananza-14.b4000b3236c7d4ef961b.jpg",
+    "static/media/Lontananza-13.jpg": "/static/media/Lontananza-13.62ad413f23d7f3bc2e95.jpg",
+    "static/media/0002.jpg": "/static/media/0002.f7268d4fa04dd8e31d7b.jpg",
+    "static/media/0013.jpg": "/static/media/0013.22250fa05d1117de3c33.jpg",
+    "static/media/0014.jpg": "/static/media/0014.cbce467b3dceabfe9b92.jpg",
+    "static/media/vinos.png": "/static/media/vinos.ce96c95f5cd25e33a0d3.png",
+    "static/media/0022.jpg": "/static/media/0022.a1671533770c03df7882.jpg",
+    "static/media/0019.jpg": "/static/media/0019.54fc840fa274f9f88ba7.jpg",
+    "static/media/transporte.png": "/static/media/transporte.5730746ca8fd31cea371.png",
+    "static/media/compras.png": "/static/media/compras.a04d0db830ad5b34ace1.png",
+    "static/media/yates.png": "/static/media/yates.db988c76ee21e14f3d44.png",
+    "static/media/masajes.png": "/static/media/masajes.8275cb65012e3724f93a.png",
+    "static/media/reservaciones.png": "/static/media/reservaciones.0e9696f78c0f28480fad.png",
+    "static/media/tintoreria.png": "/static/media/tintoreria.0dfdff3c68e39efd4ea3.png",
+    "static/media/equipo acuatico.png": "/static/media/equipo acuatico.8537893426f2e0df7cb9.png",
+    "static/media/logo.jpg": "/static/media/logo.a24c39b8a34807df7918.jpg",
+    "index.html": "/index.html",
+    "main.e5a6acdd.css.map": "/static/css/main.e5a6acdd.css.map",
+    "main.c77b3179.js.map": "/static/js/main.c77b3179.js.map",
+    "453.87d4b244.chunk.js.map": "/static/js/453.87d4b244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a6acdd.css",
+    "static/js/main.c77b3179.js"
+  ]
+}
